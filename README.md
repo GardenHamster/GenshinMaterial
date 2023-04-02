@@ -1,2 +1,2 @@
 # GenshinMaterial
-存放项目GenshinPray所需要用到的祈愿素材
+项目[GenshinPray](https://github.com/GardenHamster/GenshinPray)所需要用到的祈愿素材
