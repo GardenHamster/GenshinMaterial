@@ -1112,7 +1112,7 @@
             "goodsType": 2,
             "goodsSubType": 12,
             "rareType": 5,
-            "isPerm": true,
+            "isPerm": false,
             "isDisable": false,
             "id": 124
         },
